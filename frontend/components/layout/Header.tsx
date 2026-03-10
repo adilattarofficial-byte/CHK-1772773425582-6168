@@ -3,7 +3,7 @@ export default function Header() {
     <div className="flex items-center justify-between p-5 border-b bg-white">
 
       <h2 className="font-semibold text-gray-800">
-        Academic Assistant AI
+        Academic & Administrative Assistant AI
       </h2>
 
       <div className="flex items-center gap-4">
